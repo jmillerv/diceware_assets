@@ -8,7 +8,7 @@ More information about the [EFF Diceware Lists](https://www.eff.org/deeplinks/20
 
 ## Attribution
 The EFF wordlists were provided under the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/)  
-The Reinhold English word list was provided under the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/)
+The [Reinhold English word list](http://world.std.com/%7Ereinhold/dicewarewordlist.pdf) was provided under the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 
 
