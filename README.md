@@ -1,5 +1,5 @@
 # diceware_assets
-JSON files for the most common diceware lists. 
+JSON files for the most common English diceware lists. 
 
 ## Further Reading 
 More about diceware at the following [website](http://world.std.com/~reinhold/diceware.html)
